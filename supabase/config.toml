@@ -1,0 +1,85 @@
+project_id = "gjzhntrcogbamirtudsp"
+
+[functions.create-pix]
+verify_jwt = false
+
+[functions.pepper-webhook]
+verify_jwt = false
+
+[functions.pixup-webhook]
+verify_jwt = false
+
+[functions.admin-login]
+verify_jwt = false
+
+[functions.admin-transactions]
+verify_jwt = false
+
+[functions.toggle-access]
+verify_jwt = false
+
+[functions.check-access]
+verify_jwt = false
+
+[functions.check-payment-status]
+verify_jwt = false
+
+[functions.update-email]
+verify_jwt = false
+
+[functions.save-license]
+verify_jwt = false
+
+[functions.admin-settings]
+verify_jwt = false
+
+[functions.validate-license]
+verify_jwt = false
+
+[functions.validate-license-secure]
+verify_jwt = false
+
+[functions.license-challenge]
+verify_jwt = false
+
+[functions.license-heartbeat]
+verify_jwt = false
+
+[functions.member-auth]
+verify_jwt = false
+
+[functions.admin-licenses]
+verify_jwt = false
+
+[functions.bulk-generate-licenses]
+verify_jwt = false
+
+[functions.get-extension-download]
+verify_jwt = false
+
+[functions.upload-extension]
+verify_jwt = false
+
+[functions.lovable-proxy]
+verify_jwt = false
+
+[functions.security-challenge]
+verify_jwt = false
+
+[functions.security-validate]
+verify_jwt = false
+
+[functions.security-heartbeat]
+verify_jwt = false
+
+[functions.upload-image]
+verify_jwt = false
+
+[functions.cleanup-uploads]
+verify_jwt = false
+
+[functions.admin-subscriptions]
+verify_jwt = false
+
+[functions.check-subscription-expiry]
+verify_jwt = false
